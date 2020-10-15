@@ -1,2 +1,2 @@
 # Python
- Python Tutorials
+ Python Tutorials in English
